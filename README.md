@@ -1,19 +1,12 @@
 Praktikum: 
 Interoperabilitas dengan JSON dan XML API
-
- 
-
+![image](https://github.com/user-attachments/assets/c9a7125a-5281-4614-bec5-21a5475a2793)
 DOSEN PENGAMPU:
 SEPYAN PURNAMA KRISTANTO, S.KOM.,M.KOM	
-
-
-
 DIBUAT OLEH:
 Syafiq Burhanuddin 
 (362358302068)
 2A TRPL
-
-
 PRODI TEKNOLOGI REKAYASA PERANGKAT LUNAK
 JURUSAN BISNIS DAN INFORMATIKA
 POLITEKNIK NEGERI BANYUWANGI
@@ -21,15 +14,15 @@ POLITEKNIK NEGERI BANYUWANGI
 Bagian 1:
  Membuat API dengan JSON menggunakan Node.js 
 1. Instalasi Node.js dan Express.js
- 
+ ![image](https://github.com/user-attachments/assets/b98ae9e0-8415-4383-8389-64a3684b8a25)
+
 2. Membuat Server Express.js
- 
+ ![image](https://github.com/user-attachments/assets/5c53b94d-25ce-4705-84c3-56dfe30b2585)
+
 Tambahkan ke htdocs
+![image](https://github.com/user-attachments/assets/c092e296-ad0b-42a9-921c-d5ae4894c3d9)
 
- 
-
-
-const express = require('express');
+ const express = require('express');
 const app = express();
 const port = 3000;
 
@@ -59,16 +52,13 @@ app.listen(port, () => {
 
 Hasilnya 
  
+![image](https://github.com/user-attachments/assets/fff021a0-2b42-4d03-848c-3c5d1bdaf663)
 
 Menggunakan post 
- 
-
-
-
-
-
+ ![image](https://github.com/user-attachments/assets/cbf935cd-7844-4fdf-918c-19f5bce90746)
 Delete
- 
+ ![image](https://github.com/user-attachments/assets/09e4ac28-8e4c-4abf-8409-f5b95ecaec25)
+
 Bagian 2: 
 Membuat API dengan JSON menggunakan PHP
 
@@ -134,31 +124,12 @@ switch ($method) {
         break; 
 } 
 ?>
-
- 
 Hasilnya 
- 
+ ![image](https://github.com/user-attachments/assets/300238d4-b7a0-4ca1-abfc-7c89481fb9ed)
 Bagian 3:
  Membuat API dengan XML menggunakan PHP 
 1. Instalasi PHP dan Server Web Instal PHP dan server web seperti Apache atau Nginx. Untuk kemudahan, Anda bisa menggunakan XAMPP atau WAMP. 
- 
+ ![image](https://github.com/user-attachments/assets/1579f154-4ffb-4ebb-9f20-90811abce87b)
 2. Membuat Endpoint XML
- 
-
-Hasilnya
- 
- 
-
-
-
-Tugas 2: Pengujian Interoperabilitas : 
-Buat skrip yang mengambil data dari API JSON dan mengubahnya menjadi XML.
-buat file baru xml_api.php.
- 
-
-
-Tambahkan kode berikut ke dalam xml_api.php untuk membuat endpoint XML:
- 
-Hasilnya 
- 
-
+ Hasilnya
+ ![image](https://github.com/user-attachments/assets/7149850f-4ff8-4986-b3cf-f3e28da1d516)
