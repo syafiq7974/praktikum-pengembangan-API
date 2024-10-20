@@ -49,22 +49,18 @@ app.post('/items', (req, res) => {
 app.listen(port, () => {
   console.log(`Server berjalan di http://localhost:${port}`);
 });
-
+menggunakan browse 
+![image](https://github.com/user-attachments/assets/0e15d74b-fbac-4b83-a97f-0d1d775f1f40)
 Hasilnya 
- 
-![image](https://github.com/user-attachments/assets/fff021a0-2b42-4d03-848c-3c5d1bdaf663)
-
+ ![image](https://github.com/user-attachments/assets/fff021a0-2b42-4d03-848c-3c5d1bdaf663)
 Menggunakan post 
- ![image](https://github.com/user-attachments/assets/cbf935cd-7844-4fdf-918c-19f5bce90746)
+![image](https://github.com/user-attachments/assets/d5b3c11f-2ca2-45d6-a9f7-408cdb19e29f)
 Delete
- ![image](https://github.com/user-attachments/assets/09e4ac28-8e4c-4abf-8409-f5b95ecaec25)
-
+![image](https://github.com/user-attachments/assets/09e4ac28-8e4c-4abf-8409-f5b95ecaec25)
 Bagian 2: 
 Membuat API dengan JSON menggunakan PHP
-
 2. Membuat File API
- 
-// Data dummy 
+ // Data dummy 
 $persons = [ 
     [ 
         "id" => 1, 
